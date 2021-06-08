@@ -22,7 +22,10 @@
 ## 
 <h2>¿Dónde nacimos los 126, 014, 024 millones que habitamos la República Mexicana?</h2>
 <p>
+"Código: " <a href="https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb">https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb</a>
+
 [Código](https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb)
+
 </p>
 <br>
 
