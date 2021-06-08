@@ -19,8 +19,11 @@
 [Código](https://github.com/frasgado/Analisis_Censo_2020/blob/main/01_PoblacionTotalporSexo.ipynb)
 <br>
 
-# ¿Dónde nacimos los 126, 014, 024 millones que habitamos la República Mexicana?
-Código[https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb]
+## 
+<h2>¿Dónde nacimos los 126, 014, 024 millones que habitamos la República Mexicana?</h2>
+<p>
+[Código](https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb)
+</p>
 <br>
 
 [Enlace a Google](https://www.google.com)
