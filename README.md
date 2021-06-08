@@ -20,8 +20,21 @@
 <br>
 
 # ¿Dónde nacimos los 126, 014, 024 millones que habitamos la República Mexicana?
-Código [https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb]
+Código[https://github.com/frasgado/Analisis_Censo_2020/blob/main/07_Lugar_de_Nacimiento.ipynb]
 <br>
+
+[Enlace a Google](https://www.google.com)
+
+[Enlace a Google con título](https://www.google.com "Página de Google")
+
+[Enlace a Google][https://github.com/frasgado/DENUE_INFO]
+
+[También es posible usar números para realizar referencias][1]
+
+O dejarlo vacío y usar el enlace como propio texto [texto].
+
+URLs y URLs entre los símbolos `<` y `>` automáticamente serán transformados a enlace.
+http://www.example.com o <http://www.example.com>.
 
 
 
