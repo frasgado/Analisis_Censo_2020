@@ -16,6 +16,7 @@
 
 # ¿Por categorías sexuales, cuántos somos?
 <img src="https://github.com/frasgado/Analisis_Censo_2020/blob/main/02_composicion_por_sexo.png" width="600" height="400">
+
 [Código](https://github.com/frasgado/Analisis_Censo_2020/blob/main/01_PoblacionTotalporSexo.ipynb)
 <br>
 
@@ -33,15 +34,7 @@
 
 [Enlace a Google con título](https://www.google.com "Página de Google")
 
-[Enlace a Google][https://github.com/frasgado/DENUE_INFO]
-
-[También es posible usar números para realizar referencias][1]
-
-O dejarlo vacío y usar el enlace como propio texto [texto].
-
-URLs y URLs entre los símbolos `<` y `>` automáticamente serán transformados a enlace.
-http://www.example.com o <http://www.example.com>.
-
+[Análisis DENUE][https://github.com/frasgado/DENUE_INFO]
 
 
 
